@@ -1,11 +1,10 @@
 - 👋 Hi! I'm Marcos.
-- 😵‍💫 Currently studying electronics technician in EEST N°1.
-- 📘 Learning microcontroller programming.
+- 👨‍🎓 Electronics technician.
+- 😵‍💫 Currently studying software engineering.
+- 📘 Learning cybersecurity.
 - 🌱 Interested in [generic answer about AI].
 - 💞️ I’m looking to collaborate on something interesting.
-- 📫 Reach me in Discord **H4sh#2295**
-
-**me fui doxeado yafue**
+- 📫 Reach me in Discord **imh4sh**
 
 <!---
 imH4sh/imH4sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
